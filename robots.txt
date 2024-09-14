@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tearemer.github.io/sitemap.html.gz
+Sitemap: https://tearemer.github.io/app/sitemap.html.gz
+Sitemap: https://tearemer.github.io/assets/sitemap.html.gz
+Sitemap: https://tearemer.github.io/css/sitemap.html.gz
+Sitemap: https://tearemer.github.io/includes/sitemap.html.gz
+Sitemap: https://tearemer.github.io/item/sitemap.html.gz
+Sitemap: https://tearemer.github.io/src/sitemap.html.gz
